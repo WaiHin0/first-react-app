@@ -252,7 +252,7 @@ nav ul li:hover > ul,
 }
 
 .wrapper {
-	float: left;
+	/* float: left; */
 	width: 100%;
 	position: relative;
 }
@@ -269,7 +269,7 @@ nav ul li:hover > ul,
 }
 
 header {
-	float: left;
+	/* float: left; */
 	width: 100%;
 	background-color: #e44d3a;
 }
@@ -391,10 +391,10 @@ header {
 }
 
 nav {
-	float: left;
-	width: 60%;
-	text-align: right;
-	padding-right: 13px;
+	/* float: left; */
+	/* width: 60%; */
+	/* text-align: right; */
+	/* padding-right: 13px; */
 }
 nav ul li {
 	display: inline-block;
@@ -711,9 +711,9 @@ nav > ul > li > a:hover {
 
 
 main {
-	float: left;
+	/* float: left; */
 	width: 100%;
-	padding: 60px 0;
+	/* padding: 60px 0; */
 }
 .main-section {
 	float: left;
@@ -3710,7 +3710,7 @@ a:hover {
 .search-sec {
 	float: left;
 	width: 100%;
-	margin: 30px 0 0 0;
+	margin: 50px 0;
 }
 .search-box {
 	float: left;
